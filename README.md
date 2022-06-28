@@ -6,6 +6,7 @@
     - Redux
     - nginx
     - Jest (and more production testing methods in general)
+    - Golang
 
 <!---
 RussellGerhard/RussellGerhard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
